@@ -6,5 +6,13 @@
 		"image": "/uploads/sleutelhanger-vos.jpg",
 		"description": "Mooie vosjes sleutelhanger oranje",
 		"product_url": "/"
+	},
+	{
+		"id": "ARMBANDJES-BLAUW-ROOS",
+		"name": "Gekleurde armbandjes",
+		"price": 1.5,
+		"image": "/uploads/armbandjes-blauw-roos.jpg",
+		"description": "Mooie armbandjes in kleur naar keuze",
+		"product_url": "/"
 	}
 ]
