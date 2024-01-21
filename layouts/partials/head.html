@@ -8,4 +8,5 @@
     {{ $style := . | resources.ToCSS }}
     <link rel="stylesheet" href="{{ $style.Permalink | relURL }}" type="text/css">
   {{ end }}
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
