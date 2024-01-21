@@ -3,16 +3,72 @@
 		"id": "SLEUTELHANGER-PAREL",
 		"name": "Sleutelhanger",
 		"price": 1,
-		"image": "/uploads/sleutelhanger-vos.jpg",
+		"image": "/uploads/sleutelhanger-vos.png",
 		"description": "Mooie vosjes sleutelhanger oranje",
 		"product_url": "/"
 	},
 	{
 		"id": "ARMBANDJES-BLAUW-ROOS",
-		"name": "Gekleurde armbandjes",
+		"name": "Armband",
 		"price": 1.5,
-		"image": "/uploads/armbandjes-blauw-roos.jpg",
+		"image": "/uploads/armbandjes-blauw-roos.png",
 		"description": "Mooie armbandjes in kleur naar keuze",
+		"product_url": "/"
+	},
+	{
+		"id": "ARMBAND-MET-BEDELTJE",
+		"name": "Armband",
+		"price": 1,
+		"image": "/uploads/armband-met-bedeltje.png",
+		"description": "Mooie gekleurde armband met bedeltje",
+		"product_url": "/"
+	},
+	{
+		"id": "ARMBAND-DIAMOND-PAINTING",
+		"name": "Armband",
+		"price": 1,
+		"image": "/uploads/armband-diamond-painting.png",
+		"description": "Mooie groen rode diamond armband",
+		"product_url": "/"
+	},
+	{
+		"id": "ARMBAND-LOOM",
+		"name": "Armband",
+		"price": 0.5,
+		"image": "/uploads/armband-loom.png",
+		"description": "Loom ketting (EUR 0.5), armband (EUR 0.2) of ring (EUR 0.10)",
+		"product_url": "/"
+	},
+	{
+		"id": "SLEUTELHANGER-BONBON",
+		"name": "Sleutelhanger",
+		"price": 0.5,
+		"image": "/uploads/sleutelhanger-bonbon.png",
+		"description": "Bonbon sleutelhanger in verschillende kleuren",
+		"product_url": "/"
+	},
+	{
+		"id": "SLEUTELHANGER-STRIJKPAREL",
+		"name": "Sleutelhanger",
+		"price": 0.5,
+		"image": "/uploads/sleutelhanger-strijkparel.png",
+		"description": "Gekleurde sleutelhanger gemaakt met strijkparels",
+		"product_url": "/"
+	},
+	{
+		"id": "SLEUTELHANGER-MACRAME",
+		"name": "Sleutelhanger",
+		"price": 1,
+		"image": "/uploads/sleutelhanger-macrame-stof.png",
+		"description": "Stoffen macrame sleutelhanger",
+		"product_url": "/"
+	},
+	{
+		"id": "VERJAARDAGSKAART",
+		"name": "Verjaardagskaart",
+		"price": 0.5,
+		"image": "/uploads/verjaardags-kaart.png",
+		"description": "Handgemaakte verjaardagskaart",
 		"product_url": "/"
 	}
 ]
