@@ -40,14 +40,6 @@
 		"product_url": "/"
 	},
 	{
-		"id": "SLEUTELHANGER-BONBON",
-		"name": "Sleutelhanger",
-		"price": 0.5,
-		"image": "/uploads/sleutelhanger-bonbon.png",
-		"description": "Bonbon sleutelhanger in verschillende kleuren",
-		"product_url": "/"
-	},
-	{
 		"id": "SLEUTELHANGER-STRIJKPAREL",
 		"name": "Sleutelhanger",
 		"price": 0.5,
