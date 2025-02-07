@@ -48,6 +48,14 @@
 		"product_url": "/"
 	},
 	{
+		"id": "SLEUTELHANGER-TASJE",
+		"name": "Sleutelhanger",
+		"price": 1,
+		"image": "/uploads/sleutelhanger-tasje.png",
+		"description": "Gekleurde sleutelhanger gemaakt met strijkparels in de vorm van een tasje",
+		"product_url": "/"
+	},
+	{
 		"id": "SLEUTELHANGER-MACRAME",
 		"name": "Sleutelhanger",
 		"price": 1,
